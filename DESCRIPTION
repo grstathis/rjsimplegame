@@ -1,0 +1,19 @@
+Package: rjsimplegame
+Type: Package
+Title: Simple Javascript game in R
+Version: 0.1.0
+Author: person("Stathis", "Grigoropoulos", email = "grstathis@gmail.com",
+  role = c("aut", "cre"))
+Maintainer: Stathis Grigoropoulos <stathis.grigoropoulos@nl.ey.com>
+Description: Port of the simple game written in Javascript at the w3.schools.com.
+  Use the arrows of the keyboard to move the red square and avoid the obstacles.
+  Visit https://www.w3schools.com/graphics/game_controllers.asp.
+  The purpose of the package is to showcase the possibilites of the htmlwidgets package. 
+License: MIT License.
+Depends:
+    R (>= 3.5.1)
+Imports:
+    htmlwidgets,
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1

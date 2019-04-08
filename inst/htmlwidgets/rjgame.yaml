@@ -1,0 +1,5 @@
+dependencies:
+  - name: jgame
+    version: 0.0.1
+    src: htmlwidgets/lib
+    script: jscriptgame.js
