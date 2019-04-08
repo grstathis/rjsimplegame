@@ -3,8 +3,10 @@
 #Author : Stathis Grigoropoulos
 
 
-#Uncomment the install packages code to check the needed packages.
+#Uncomment the code to install the needed packages.
+#install.packages('devtools')
 #install.packages('roxygen2')
 #install.packages('htmlwidgets')
-library(htmlwidgets)
-scaffoldWidget("rjgame", edit = FALSE)
+
+#library(htmlwidgets)
+#scaffoldWidget("rjgame", edit = FALSE)
