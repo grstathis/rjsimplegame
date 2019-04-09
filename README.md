@@ -40,7 +40,7 @@ You should be able to see the game in the Viewer tab in Rstudio.
 
 Click the widget to make it active and use the keyboard arrows to move the red square.
 
-![rjgame_sample](./rjsimple1.png)
+![rjgame_sample](./rjsimple1.PNG)
 
 
 ## Built With
